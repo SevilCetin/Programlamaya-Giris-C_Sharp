@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometrik_Sekillerin_ Cevre_Ve_Alani", "Geometrik_Sekillerin_ Cevre_Ve_Alani\Geometrik_Sekillerin_ Cevre_Ve_Alani.csproj", "{F199B069-EA31-4D90-B7A8-CF59CEEF2754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F199B069-EA31-4D90-B7A8-CF59CEEF2754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F199B069-EA31-4D90-B7A8-CF59CEEF2754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F199B069-EA31-4D90-B7A8-CF59CEEF2754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F199B069-EA31-4D90-B7A8-CF59CEEF2754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F94468-712D-472D-A981-AA7F758B47FD}
+	EndGlobalSection
+EndGlobal

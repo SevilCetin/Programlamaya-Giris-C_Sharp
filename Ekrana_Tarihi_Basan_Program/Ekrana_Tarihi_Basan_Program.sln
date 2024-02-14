@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekrana_Tarihi_Basan_Program", "Ekrana_Tarihi_Basan_Program\Ekrana_Tarihi_Basan_Program.csproj", "{1ED25B30-A1CC-4901-97AA-1B45DD9A6182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED25B30-A1CC-4901-97AA-1B45DD9A6182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED25B30-A1CC-4901-97AA-1B45DD9A6182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED25B30-A1CC-4901-97AA-1B45DD9A6182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED25B30-A1CC-4901-97AA-1B45DD9A6182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24F858E-A745-4179-BF04-2E1CF6B11466}
+	EndGlobalSection
+EndGlobal

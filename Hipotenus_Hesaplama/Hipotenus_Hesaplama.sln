@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hipotenus_Hesaplama", "Hipotenus_Hesaplama\Hipotenus_Hesaplama.csproj", "{88F65997-2278-494D-B5FE-88909B7D3843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F65997-2278-494D-B5FE-88909B7D3843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F65997-2278-494D-B5FE-88909B7D3843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F65997-2278-494D-B5FE-88909B7D3843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F65997-2278-494D-B5FE-88909B7D3843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B7A5AF-6B00-453D-A41F-D5EEB0BA3EE0}
+	EndGlobalSection
+EndGlobal
