@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Alinan_Bilgileri_Okuma_Ve_Yazdirma/1.0.0": {
+        "runtime": {
+          "Alinan_Bilgileri_Okuma_Ve_Yazdirma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alinan_Bilgileri_Okuma_Ve_Yazdirma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

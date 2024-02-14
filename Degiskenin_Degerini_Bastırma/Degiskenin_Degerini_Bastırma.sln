@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenin_Degerini_Bastırma", "Degiskenin_Degerini_Bastırma\Degiskenin_Degerini_Bastırma.csproj", "{C8F12B1D-4ABC-4412-B8AA-238F63A97496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F12B1D-4ABC-4412-B8AA-238F63A97496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F12B1D-4ABC-4412-B8AA-238F63A97496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F12B1D-4ABC-4412-B8AA-238F63A97496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F12B1D-4ABC-4412-B8AA-238F63A97496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276DFCA2-1B59-4C49-89EF-E41C885F9FE0}
+	EndGlobalSection
+EndGlobal

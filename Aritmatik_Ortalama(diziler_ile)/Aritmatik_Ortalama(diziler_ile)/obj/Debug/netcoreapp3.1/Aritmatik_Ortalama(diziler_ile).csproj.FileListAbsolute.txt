@@ -1,0 +1,12 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Github\Programlamaya-Giris-C_Sharp\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\netcoreapp3.1\Aritmatik_Ortalama(diziler_ile).genruntimeconfig.cache
